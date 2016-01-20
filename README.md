@@ -1,20 +1,19 @@
-## Włodek Bzyl, matwb@ug.edu.pl
+### Nazwa Zespołu – Imię Nazwisko
 
-Rozwiązania zadań z przedmiotu *Bazy NoSQL*:
+1. Zaliczenie:
+ - [ ] [nazwa aplikacji](zaliczenie)
+ - [ ] [link do wdrożonej na zewnętrznym serwerze aplikacji](/)
+1. Egzamin:
+ - [ ] [nazwa aplikacji](egzamin)
+ - [ ] [link do wdrożonej na zewnętrznym serwerze aplikacji](/)
 
-1. [Zaliczenie](zaliczenie.md):
- - [ ] Neo4j
- - [ ] EDA
-1. [Egzamin](egzamin.md)
- - [ ] Aggregation Pipeline
- - [ ] MapReduce
+W pliku _README.md_ należy wpisać:
 
-Informacje o komputerze na którym były wykonywane obliczenia:
+* wersję języka Ruby (jakakolwiek wersja ~> 2.2)
+* jakiej użyto wersji Rails (tylko wersje ~> 4.2 lub ~> 5.0)
+* jakiej użyto bazy danych
 
-* jaki procesor
-* ile pamięci RAM, jaki dysk (HD, SSD)
-* jaki system operacyjny + wersja,
- 32-bit czy 64-bit
-* wersje użytych baz danych, wersje bibliotek (o ile byłyyte jakieś biblioteki)
+Dane te należy przedstawić w formie tabelki.
 
-Dane najlepiej przedstawić w formie tabelki.
+Dodatkowo należy napisać, wystarczy jeden akapit,
+jaki problem rozwiązuje aplikacja.
