@@ -10,7 +10,9 @@
 W plikach _README.md_ należy wpisać:
 
 * wersję języka Ruby (jakakolwiek wersja ~> 2.2)
-* jakiej użyto wersji Rails (tylko wersje ~> 4.2 lub ~> 5.0)
+* jakiej użyto wersji Rails
+  - zaliczenie – tylko wersje ~> 5.0.0
+  - egzamin – tylko wersje ~> 4.2 lub ~> 5.0.0
 * jakiej użyto bazy danych
 
 Dane te należy przedstawić w formie tabelki.
