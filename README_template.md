@@ -1,7 +1,10 @@
-# Ruby on Rails <NAZWA APLIKACJI>
+# _NAZWA APLIKACJI_
 
 This is the sample application
 [*NAZWA APLIKACJI*]_LINK DO WDROŻONEJ APLIKACJI (np. na Heroku)_ by _IMIĘ NAZWISKO_.
+
+_Tutaj wstawić TABELKĘ_
+
 
 ## Getting started
 
