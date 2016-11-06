@@ -1,8 +1,7 @@
 # Ruby on Rails <NAZWA APLIKACJI>
 
 This is the sample application
-[*NAZWA APLIKACJI*]<LINK DO WDROŻONEJ APLIKACJI (np. na Heroku)> 
-by <IMIĘ NAZWISKO>.
+[*NAZWA APLIKACJI*]_LINK DO WDROŻONEJ APLIKACJI (np. na Heroku)_ by _IMIĘ NAZWISKO_.
 
 ## Getting started
 
