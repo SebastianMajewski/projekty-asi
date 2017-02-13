@@ -8,4 +8,5 @@ W pliku _README.md_ należy wpisać:
 * jakiej użyto wersji Rails (tylko wersje ~> 5.0.0)
 * jakiej użyto bazy danych
 
-Dodatkowo należy napisać (wystarczy jeden akapit) jaki problem rozwiązuje aplikacja.
+Dodatkowo należy napisać (wystarczy jeden akapit) jaki problem rozwiązuje aplikacja
+i z jakich (niestandardowych) gemów skorzystano (lista, do czego użyto).
